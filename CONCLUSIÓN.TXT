@@ -1,0 +1,8 @@
+1. Lo aprendido durante el desarrollo del proyecto:
+Aprendimos a integrar la lectura y escritura de archivos planos en Java utilizando flujos de datos estructurados, lo cual permite automatizar el procesamiento de información comercial sin intervención manual. Asimismo, afianzamos el ordenamiento de colecciones de objetos y la gestión orientada a objetos en Eclipse.
+
+2. Posibles aplicaciones en su vida profesional:
+Las habilidades desarrolladas son sumamente útiles para construir software de gestión empresarial, automatizar la generación de reportes financieros o de ventas en formato CSV, y procesar transacciones en sistemas de información integrados dentro de cualquier organización.
+
+3. Dificultades presentadas durante el desarrollo del proyecto:
+Las principales dificultades radicaron en asegurar la sincronización correcta entre los identificadores de los productos y las ventas en los archivos individuales, así como en el manejo riguroso de excepciones al leer rutas relativas dentro del entorno de ejecución de Eclipse.
